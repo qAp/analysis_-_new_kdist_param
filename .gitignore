@@ -1,0 +1,11 @@
+
+*~
+*-checkpoint.ipynb
+*.pdf
+*.h5
+*.nc
+*.exe
+*.xlsx
+
+.ipynb_checkpoints/
+__pycache__/
