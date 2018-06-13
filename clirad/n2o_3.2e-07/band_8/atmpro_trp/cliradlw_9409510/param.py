@@ -1,0 +1,2 @@
+PARAM = {'atmpro': 'trp', 'band': [8], 'commitnumber': '9409510', 'molecule': {'n2o': 3.2e-07}, 'tsfc': 300}
+PARAM_LBLNEW = {'molecule': 'n2o', 'band': '6', 'commitnumber': 'bca49ce', 'vmin': 1100, 'vmax': 1215, 'dv': 0.005, 'nv': 200, 'ref_pts': [(500, 250)], 'ng_refs': [1], 'ng_adju': [0], 'klin': 0, 'option_wgt_k': 1, 'wgt': [(0.95,)], 'w_diffuse': [(1.66,)], 'option_wgt_flux': 1, 'atmpro': 'trp', 'tsfc': 300, 'conc': 3.2e-07, 'option_compute_btable': 0, 'option_compute_ktable': 0}
