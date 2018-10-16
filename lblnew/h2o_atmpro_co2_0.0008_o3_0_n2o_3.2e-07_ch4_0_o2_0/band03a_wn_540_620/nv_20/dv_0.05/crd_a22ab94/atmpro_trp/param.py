@@ -1,0 +1,2 @@
+DIR_FORTRAN = '/chia_cluster/home/jackyu/radiation/crd/LW/examples/separate_g_groups/study__lblnew_g1_threshold/h2o_atmpro_co2_0.0008_o3_0_n2o_3.2e-07_ch4_0_o2_0/band03a_wn_540_620/nv_20/dv_0.05/crd_a22ab94/atmpro_trp'
+PARAM = {'commitnumber': 'a22ab94', 'molecule': {'h2o': 'atmpro', 'co2': 0.0008, 'n2o': 3.2e-07}, 'band': '3a', 'nv': 20, 'dv': 0.05, 'atmpro': 'trp', 'tsfc': 300}
